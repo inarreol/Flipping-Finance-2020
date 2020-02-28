@@ -12,7 +12,7 @@ var config = {
         {
             id: 'slug-style-id',
             title: 'Opportunity Zones',
-            image: 'btown.jpeg',
+            image: 'btown.jpg',
             description: 'Opportunity Zones are capable of positive social impact. While challenges exist, there are novel solutions to help bridge gaps between investors and the Bloomington community. The lack of communication between investors and community can cause difficulty with navigating economic development programs, this can be challenging. There is disconnect in the ability for investors’ to have a positive “social impact". Opportunity Zone investors have clear federal incentives, as well as state & local.',
             location: {
                 center: [-86.53742, 39.16388],
@@ -21,16 +21,16 @@ var config = {
                 bearing: 0.00
             },
             onChapterEnter: [
-                // {
-                //     layer: 'opportunity-zones',
-                //     opacity: 1
-                // }
+                 {
+                     layer: 'opportunity-zones',
+                     opacity: 1
+                 }
             ],
             onChapterExit: [
-                // {
-                //     layer: 'opportunity-zones',
-                //     opacity: 0
-                // }
+                 {
+                     layer: 'opportunity-zones',
+                     opacity: 0
+                 }
             ]
         },
         {
