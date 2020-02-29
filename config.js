@@ -137,7 +137,7 @@ var config = {
             image: 'office.jpg',
             description: 'Bloomington has a burgeoning startup scene that is quickly outgrowing the Dimension Mill Coworking space creating a huge need for startup grade commercial office space that would stimulate job creation and stem brain drain! This hub is in a great location and represents real opportunity to create commercial office space that is located in an OZ (blue layer) right in the heart of the CTP (pink layer), a TIF district (orange layer), and an Enterprise Urban Zone (purple layer).',
             location: {
-                center: [-86.53585, 39.17188],
+                center: [-86.53774, 39.17198],
                 zoom: 17.35,
                 pitch:  60.00,
                 bearing: 0.00
